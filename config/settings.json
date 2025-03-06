@@ -1,0 +1,12 @@
+{
+    "server": {
+      "url": "opc.tcp://localhost:4840",
+      "securityPolicy": "Basic256Sha256",
+      "securityMode": "SignAndEncrypt"
+    },
+    "tests": [
+      "TestCase1",
+      "TestCase2"
+    ]
+  }
+  
